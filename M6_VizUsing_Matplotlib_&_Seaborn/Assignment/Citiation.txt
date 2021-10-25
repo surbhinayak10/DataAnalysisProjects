@@ -1,9 +1,0 @@
-https://towardsdatascience.com/exploratory-data-analysis-of-kaggle-datasets-9a293886f644
-
-https://www.kaggle.com/parulpandey/forbes-highest-paid-athletes-19902019/version/10
-https://www.kaggle.com/ukveteran/groupby-in-action-forbes-richest-athletes-jma
-https://www.kaggle.com/parulpandey/who-earned-the-most-in-sports-in-2020
-https://www.kaggle.com/ridaali/forbes-richest-athletes
-
-https://finance.yahoo.com/news/highest-paid-athlete-every-1990-090000092.html
-
